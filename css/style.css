@@ -8,11 +8,11 @@ height:100%
 }
 
 body {
-background-color:#20B2AA;
+background-color:#374eb1;
 margin:0 auto;
 text-align:center;
 width:100%;
-font-family:'Showcard Gothic',sans-serif;
+font-family:'Castellar',sans-serif;
 color:#fff;
 font-weight:300;
 line-height:28px;
@@ -33,11 +33,11 @@ margin:0 auto
 
 .content__btn {
 font-size:20px;
-border:3px solid #000;
-color:#000;
+border:5px solid #29007c;
+color:#000000;
 text-decoration:none;
 border-radius:100em;
-padding:20px 40px;
+padding:40px 40px;
 letter-spacing:.05em;
 position:relative;
 transition:.3s
@@ -45,12 +45,12 @@ transition:.3s
 
 .content__btn::before {
 content:'';
-border:3px solid #FFC0CB;
+border:4px solid #000462;
 width:100%;
 height:100%;
 position:absolute;
-left:3px;
-top:2px;
+left:4px;
+top:10px;
 border-radius:100em;
 background:#FFC0CB;
 z-index:-1;
