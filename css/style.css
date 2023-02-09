@@ -45,7 +45,7 @@ transition:.3s
 
 .content__btn::before {
 content:'';
-border:4px solid #000462;
+border:3px solid #000462;
 width:100%;
 height:100%;
 position:absolute;
